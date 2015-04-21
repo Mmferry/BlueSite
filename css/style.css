@@ -1,0 +1,360 @@
+ 
+body{
+	background-color: #515f67;
+}
+a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.bgslider{
+	background-image: url("../images/bgheader.jpg");
+	width: 100%;
+
+}
+.header-color{
+	background-color: #000;
+	border: 0px;
+	border-radius: 0px;
+	opacity: 0.6;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	/*position: fixed;
+	z-index: 100;*/
+	width: 100%;
+}
+#logo-a{
+	font-size: 30pt;
+	font-weight: bold;
+	color: #fff;
+	font-family: "Segoe UI";
+}
+#logo-a span{
+	color: #4bcaff;
+}
+#cp_menu li{
+
+}
+#cp_menu a{
+	color: #ffffff;
+	font-family: "Segoe UI";
+	font-size: 14pt;
+	font-weight: lighter;
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+#cp_menu a:hover{
+	color: #4bcaff;
+}
+a.cp_btns{
+	background-color: transparent;
+	color: #3bb4e6;
+}
+a.cp_btns.active{
+	border: 2px solid #4bcaff;
+	color: #4bcaff;
+	background-color: #000;
+}
+.hero{
+	padding-top: 20%;
+	padding-bottom: 20%;
+}
+.hero p{
+	font-size: 2.350em;
+	font-weight: lighter;
+	font-family: "Segoe UI";
+	color: #ffffff;
+}
+.hero1{
+	background-color: #000;
+	opacity: 0.4;
+}
+.service-section{
+	background-color: #4bcaff;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.service-one h2{
+	font-weight: lighter;
+	font-family: "Segoe UI";
+	color: #ffffff;
+}
+.line{
+	width: 40px;
+	height: 2px;
+	background-color: #ffffff;
+	margin-bottom: 40px;
+}
+.service-two{
+	padding-top: 105px;
+}
+.service-one h3, .service-two h3{
+	color: #ffffff;
+	font-family: "Segoe UI";
+}
+.service-one p, .service-two p{
+	color: #ffffff;
+	font-family: "Segoe UI";
+	font-weight: bold;
+	font-size: 0.750em;
+}
+.PORTFOLIO-section{
+	background-color: #ffffff;
+	padding-top: 75px;
+	border-radius: 0px;
+	padding-bottom: 75px;
+}
+#proto_menu a{
+	color: #626f76;
+	font-family: "Segoe UI";
+	font-size: 14pt;
+	font-weight: lighter;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#proto_menu a:hover{
+	color: #4bcaff;
+}
+a.protofilo_link{
+	background-color: transparent;
+	color: #3bb4e6;
+}
+a.protofilo_link.activelink{
+	border: 2px solid #4bcaff;
+	color: #4bcaff;
+}
+.PORTFOLIO-section h2{
+	color: #626f76;
+	font-family: "Segoe UI";
+	font-weight: lighter;
+}
+.line2{
+	width: 40px;
+	height: 2px;
+	background-color: #626f76;
+	margin-bottom: 80px;
+}
+.items img{
+	padding-bottom: 15px;
+	padding-top: 15px;
+
+}
+.media-section{
+	padding-bottom: 75px;
+}
+.media-section h2{
+	color: #ffffff;
+	font-family: "Segoe UI";
+	font-weight: lighter;
+}
+.media-section p{
+	color: #ffffff;
+	font-family: "Segoe UI";
+	font-size: 0.750em;
+	padding-bottom: 25px;
+}
+.button-default{
+	background-color: transparent;
+	color: #353f46;
+	border: 2px solid #353f46;
+	padding: 14px 35px;
+	font-family: "Segoe UI";
+	font-weight: bold;
+}
+.twitter-color{
+	background-color: #4bcaff;
+	padding-top: 80px;
+	padding-bottom: 75px;
+}
+.twitter-color h2{
+	color: #ffffff;
+	font-family: "Segoe UI";
+	font-weight: lighter;
+}
+.twitter-color p{
+	color: #ffffff;
+	font-family: "Segoe UI";
+	font-size: 1em;
+}
+.twitter-color span{
+	color: #ffffff;
+	font-family: "Segoe UI";
+	font-size: 1.150em;
+	font-weight: bolder;
+}
+.whois-pragraph{
+	padding-top: 90px;
+}
+.whois-pragraph h2{
+	color: #ffffff;
+	font-family: "Segoe UI";
+	font-weight: lighter;
+}
+.whois-pragraph p{
+	color: #ffffff;
+	font-family: "Segoe UI";
+	font-size: 1em;
+	padding-bottom: 30px;
+	font-weight: lighter;
+}
+.whois-social{
+	padding-top: 185px;
+}
+.whois-social p{
+	color: #ffffff;
+	font-family: "Segoe UI";
+	font-size: 1em;
+	padding-bottom: 50px;
+	font-weight: lighter;
+}
+.line1, .line3{
+	width: 40px;
+	height: 2px;
+	background-color: #ffffff;
+	margin-bottom: 30px;
+}
+.social-linkT, .social-linkG, .social-linkD, .social-linkC{
+	padding: 20px;
+	margin-right: 20px;
+	border: 2px solid #ffffff;
+	font-size: 25px;
+}
+.social-linkT:hover{
+	margin-right: 20px;
+	border: 2px solid #1fb0ec;
+	font-size: 25px;
+	color: #1fb0ec;
+}
+.social-linkG:hover{
+	margin-right: 20px;
+	border: 2px solid #ff0000;
+	font-size: 25px;
+	color: #ff0000;
+}
+.social-linkD:hover{
+	margin-right: 20px;
+	border: 2px solid #ff0096;
+	font-size: 25px;
+	color: #ff0096;
+}
+.social-linkC:hover{
+	margin-right: 20px;
+	border: 2px solid #913300;
+	font-size: 25px;
+	color: #913300;
+}
+.bg-whois{
+	background-image: url("../images/whois.jpg");
+	width: 100%;
+	opacity: 0.8;
+}
+.twitter-link{
+	font-size: 25px;
+}
+.twitter-link:hover{
+	font-size: 29px;
+	color: #1fb0ec;
+}
+@font-face{
+	font-family: Bitter Bold;
+	src :url(fonts/Bitter-Bold.otf);
+}
+.tetimonials{
+	background-color: #ffffff;
+	padding-bottom: 60px;
+	padding-top: 60px;
+}
+.tetimonials h2{
+	color: #515f67;
+	font-family: "Segoe UI";
+	font-weight: lighter;
+}
+.tetimonials p{
+	color: #515f67;
+	font-family: "Segoe UI";
+	font-weight: lighter;
+	font-size: 1em;
+}
+.tetimonials small{
+	color: #4bcaff;
+	font-weight: bold;
+	font-size: 0.750em;
+}
+.line3{
+	background-color: #515f67;
+}
+.coln{
+	color: #515f67;
+	font-family: "Bitter Bold";
+	font-size: 55px;
+}
+.bg-contact{
+	background-image: url("../images/bgcontact.jpg");
+	width: 100%;
+
+}
+.contact-section{
+	padding-top: 75px;
+	padding-bottom: 70px;
+	color: #ffffff;
+	font-family: "Segoe UI";
+}
+.contact-section h2{
+	color: #ffffff;
+	font-family: "Segoe UI";
+	font-weight: lighter;
+}
+.contact-section form{
+	color: #ffffff;
+	font-family: "Segoe UI";
+}
+.contact-section input{
+	background-color: transparent;
+	margin-bottom: 20px;
+	padding-bottom: 5px;
+	border: 1px solid #ffffff;
+	width: 100%
+}
+.contact-section textarea{
+	background-color: transparent;
+	margin-bottom: 20px;
+	padding-bottom: 5px;
+	border: 1px solid #ffffff;
+	width: 100%
+}
+.contact-section p{
+	padding-top: 115px;
+	font-weight: lighter;
+}
+#submit{
+	padding: 20px 0px;
+	background-color: #4bcaff;
+	color: #ffffff;
+	font-family: "Segoe UI";
+	width: 300px;
+	border: 0px;
+}
+footer{
+	padding-top: 70px;
+	padding-bottom: 70px;
+	background-color: #353f47;
+	padding-left: 15px;
+}
+footer li{
+	padding-left: 10px;
+	padding-right: 10px;
+	color: #515f67;
+}
+footer a{
+	text-decoration: none;
+	font-family: "Segoe UI";
+	color: #515f67;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+footer a:hover{
+	text-decoration: none;
+	color: #515f67;
+}
+footer a:visited{
+
+}
